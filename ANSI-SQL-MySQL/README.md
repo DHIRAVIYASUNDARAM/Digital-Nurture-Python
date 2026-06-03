@@ -206,6 +206,3 @@ Through this project, the following skills were developed:
 ## Author
 
 **DHIRAVIYA S**
-
-Digital Nurture Program
-SQL & Database Management Assignment
